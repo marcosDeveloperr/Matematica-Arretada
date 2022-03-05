@@ -13,6 +13,13 @@ h1{
     text-transform: uppercase;
     
 }
+h1.rodape
+{
+    font-size: 18px;
+    color: #88D80D;
+    text-decoration-line: none;
+    text-transform: uppercase;
+}
 p{
     font-size: 14px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -21,7 +28,8 @@ p{
 p.texto{
 
     font-size: 14px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    /*font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;*/
+    font-family: Arial, Helvetica, sans-serif;
     color: #000000;
 }
 .navbar{
@@ -32,17 +40,28 @@ p.texto{
 ul.texto
 {
     font-size: 14px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    /*font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;*/
+    font-family: Arial, Helvetica, sans-serif;
 
+
+}
+ul.texto li{
+    list-style-type: circle;
+    margin-left: 20px;   
 }
 ul.rodape
 {
     
     color: #fffafa;
-    margin: 0px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;   
-    font-size: 18px;
+    margin-left: 0px;
+    /*font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;   
+    font-size: 18px;*/
+    font-family: 'Courier New', Courier, monospace;
     padding-left: 5px;
+}
+p.objetivo
+{
+     font-family: 'Courier New', Courier, monospace;
 }
 
 ul li 
