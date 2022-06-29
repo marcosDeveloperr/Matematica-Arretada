@@ -1,5 +1,5 @@
 
-![Matemática Arretada](../Matematica-Arretada/public/logo.png)
+![Matemática Arretada](../public/logo.png)
 
 # [Matemática Arretada](https://www.matematicaarretada.online)
 
