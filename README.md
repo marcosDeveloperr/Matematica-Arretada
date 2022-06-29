@@ -1,5 +1,5 @@
 
-![Matemática Arretada](../public/logo.png)
+![Matemática Arretada](https://github.com/marcosDeveloperr/Matematica-Arretada/blob/master/public/logo.png)
 
 # [Matemática Arretada](https://www.matematicaarretada.online)
 
